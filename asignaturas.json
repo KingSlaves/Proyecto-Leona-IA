@@ -1,0 +1,96 @@
+[{
+    "codigo":1,
+    "nombre":"quimica",
+    "grado":1,
+    "horas_semana":4
+},
+{
+    "id":2,
+    "nombre":"algebra lineal",
+    "grado":1,
+    "horas_semana":5
+},
+{
+    "id":3,
+    "nombre":"Fundamentos computacion",
+    "grado":1,
+    "horas_semana":4
+},
+{
+    "id":4,
+    "nombre":"algoritmos",
+    "grado":1,
+    "horas_semana":7
+},
+{
+    "id":5,
+    "nombre":"matematicas discretas",
+    "grado":1,
+    "horas_semana":6
+},
+{
+    "id":6,
+    "nombre":"expresion oral l",
+    "grado":1,
+    "horas_semana":4
+},
+{
+    "id":7,
+    "nombre":"calculo integral",
+    "grado":4,
+    "horas_semana":6
+},
+{
+    "id":8,
+    "nombre":"ingenieria en sw asistida",
+    "grado":4,
+    "horas_semana":6
+},
+{
+    "id":9,
+    "nombre":"programacion web",
+    "grado":4,
+    "horas_semana":7
+},
+{
+    "id":10,
+    "nombre":"ingenieria de requerimientos de software",
+    "grado":4,
+    "horas_semana":6
+},
+{
+    "id":11,
+    "nombre":"redes",
+    "grado":4,
+    "horas_semana":6
+},
+{
+    "id":12,
+    "nombre":"ing economica",
+    "grado":7,
+    "horas_semana":4
+},
+{
+    "id":13,
+    "nombre":"compiladores e interpretes",
+    "grado":7,
+    "horas_semana":5
+},
+{
+    "id":14,
+    "nombre":"mantenimiento de sw",
+    "grado":7,
+    "horas_semana":4
+},
+{
+    "id":15,
+    "nombre":"calidad de sw",
+    "grado":7,
+    "horas_semana":4
+},
+{
+    "id":16,
+    "nombre":"realidad aumentada",
+    "grado":7,
+    "horas_semana":4
+}]
