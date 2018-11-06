@@ -1,15 +1,30 @@
 [{
     "id":1,
     "grado":1,
-    "grupos":3
+    "grupo":"a"
 },
 {
     "id":2,
-    "grado":4,
-    "grupos":2
+    "grado":1,
+    "grupo": "b"
 },
 {
     "id":3,
+    "grado":1,
+    "grupo": "c"
+},
+{
+    "id":4,
+    "grado":4,
+    "grupos":"a"
+},
+{
+    "id":5,
+    "grado":4,
+    "grupos":"b"
+},
+{
+    "id":6,
     "grado":7,
-    "grupos":3
+    "grupos":"a"
 }]
