@@ -46,15 +46,15 @@ lista_final = [
         "josue",
         [
             asignatura("Qu1","quimica",1,4,1),
-            asignatura("Qu1","quimica",1,4,2),
-            asignatura("Qu1","quimica",1,4,3)
+            asignatura("Qu2","quimica",1,4,2),
+            asignatura("Qu3","quimica",1,4,3)
         ],
         [
             [0,0,0,0,0],#1
             [1,1,1,1,1],#2
             [1,1,1,1,1],#3
             [1,1,1,1,1],#4
-            [1,1,1,1,1]#4
+            [1,1,1,1,1]#5
         ]
     ], 
     [
@@ -69,9 +69,10 @@ lista_final = [
             [1,1,1,1,1],#2
             [1,1,1,1,1],#3
             [1,1,1,1,1],#4
-            [1,1,1,1,1]#4
+            [1,1,1,1,1]#5
         ]
     ]
+]
 
 lista_profesor =  [
     [#profesor 2
@@ -146,13 +147,6 @@ lista_horario_salon = [
     ]
 ]
 lista_horario_profesor = [
-    [#profesor 1
-        [0,0,0,0,0],#1
-        [0,0,0,0,0],#2
-        [0,0,0,0,0],#3
-        [0,0,0,0,0],#4
-        [0,0,0,0,0]#4
-    ],
     [#profesor 2
         [0,0,0,0,0],#1
         [0,0,0,0,0],#2
