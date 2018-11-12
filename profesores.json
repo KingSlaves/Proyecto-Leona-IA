@@ -1,22 +1,4 @@
-<<<<<<< HEAD
-[{
-=======
-
-[{   "id":0,
-    "profesor":"Tipo de profesor",
-    "nombre":"Nombre",
-    "asignaturas":["Materia1","Materia 2"],
-    "disponibilidad":[
-        [1,1,1,1,1],
-        [1,1,1,1,1],
-        [1,1,1,1,1],
-        [0,0,0,0,0]
-    ],
-    "horas":15
-},
-{
-    
->>>>>>> 4fc4835bf12d78810760f736acdd52838307aa47
+[{  
     "id":1,
     "profesor":"PA",
     "nombre":"christian baladimir",
