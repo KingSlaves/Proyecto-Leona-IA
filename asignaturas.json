@@ -1,193 +1,114 @@
-[{
-    "id":"Ma1",
-    "nombre":"Materia1",
-    "grado":1,
-    "horas_semana":5,
-    "grupo": 1
-},
+[
 {
-    "id":"Qu1",
+    "id":["Qu1","Qui2","Qui3"],
     "nombre":"quimica",
     "grado":1,
     "horas_semana":4,
-    "grupo": 1
+    "grupo": [1,2,3]
 },
 {
-    "id":"AL1",
+    "id":["AL1","AL2","AL3"],
     "nombre":"algebra lineal",
     "grado":1,
     "horas_semana":5,
-    "grupo": 1
+    "grupo": [1,2,3]
 },
 {
-    "id":"FC1",
+    "id":["FC1","FC2","FC3"],
     "nombre":"Fundamentos computacion",
     "grado":1,
     "horas_semana":4,
-    "grupo": 1
+    "grupo": [1,2,3]
 },
 {
-    "id":"Al1",
+    "id":["Al1","Al2","Al3"],
     "nombre":"algoritmos",
     "grado":1,
     "horas_semana":7,
-    "grupo": 1
+    "grupo": [1,2,3]
 },
 {
-    "id":5,
+    "id":["MD1","MD2","MD3"],
     "nombre":"matematicas discretas",
     "grado":1,
     "horas_semana":6,
-    "grupo": 1
+    "grupo": [1,2,3]
 },
 {
-    "id":6,
+    "id":["EO1","EO2","EO3"],
     "nombre":"expresion oral l",
     "grado":1,
     "horas_semana":4,
-    "grupo": 1
+    "grupo": [1,2,3]
 },
+
 {
-    "id":7,
-    "nombre":"quimica",
-    "grado":1,
-    "horas_semana":4,
-    "grupo": 2
-},
-{
-    "id":8,
-    "nombre":"algebra lineal",
-    "grado":1,
-    "horas_semana":5,
-    "grupo": 2
-},
-{
-    "id":9,
-    "nombre":"Fundamentos computacion",
-    "grado":1,
-    "horas_semana":4,
-    "grupo": 2
-},
-{
-    "id":10,
-    "nombre":"algoritmos",
-    "grado":1,
-    "horas_semana":7,
-    "grupo": 2
-},
-{
-    "id":11,
-    "nombre":"matematicas discretas",
-    "grado":1,
-    "horas_semana":6,
-    "grupo": 2
-},
-{
-    "id":12,
-    "nombre":"expresion oral l",
-    "grado":1,
-    "horas_semana":4,
-    "grupo": 2
-},
-{
-    "id":13,
-    "nombre":"quimica",
-    "grado":1,
-    "horas_semana":4,
-    "grupo": 3
-},
-{
-    "id":14,
-    "nombre":"algebra lineal",
-    "grado":1,
-    "horas_semana":5,
-    "grupo": 3
-},
-{
-    "id":15,
-    "nombre":"Fundamentos computacion",
-    "grado":1,
-    "horas_semana":4,
-    "grupo": 3
-},
-{
-    "id":16,
-    "nombre":"algoritmos",
-    "grado":1,
-    "horas_semana":7,
-    "grupo": 3
-},
-{
-    "id":17,
-    "nombre":"matematicas discretas",
-    "grado":1,
-    "horas_semana":6,
-    "grupo": 3
-},
-{
-    "id":18,
-    "nombre":"expresion oral l",
-    "grado":1,
-    "horas_semana":4,
-    "grupo": 3
-},
-{
-    "id":7,
+    "id":["CI1","CI2"],
     "nombre":"calculo integral",
     "grado":4,
-    "horas_semana":6
+    "horas_semana":6,
+    "grupo": [4,5]
 },
 {
-    "id":8,
+    "id":["ISA1","ISA2"],
     "nombre":"ingenieria en sw asistida",
     "grado":4,
-    "horas_semana":6
+    "horas_semana":6,
+    "grupo": [4,5]
 },
 {
-    "id":9,
+    "id":["PW1","PW2"],
     "nombre":"programacion web",
     "grado":4,
-    "horas_semana":7
+    "horas_semana":7,
+    "grupo": [4,5]
 },
 {
-    "id":10,
+    "id":["IRS1","IRS2"],
     "nombre":"ingenieria de requerimientos de software",
     "grado":4,
-    "horas_semana":6
+    "horas_semana":6,
+    "grupo": [4,5]
 },
 {
-    "id":11,
+    "id":["Re1","Re2"],
     "nombre":"redes",
     "grado":4,
-    "horas_semana":6
+    "horas_semana":6,
+    "grupo": [4,5]
 },
 {
-    "id":12,
+    "id":["IE1","IE2","IE3"],
     "nombre":"ing economica",
     "grado":7,
-    "horas_semana":4
+    "horas_semana":4,
+    "grupo": [6,7,8]
 },
 {
-    "id":13,
+    "id":["CI1","CI2","CI3"],
     "nombre":"compiladores e interpretes",
     "grado":7,
-    "horas_semana":5
+    "horas_semana":5,
+    "grupo": [6,7,8]
 },
 {
-    "id":14,
+    "id":["MS1","MS2","MS3"],
     "nombre":"mantenimiento de sw",
     "grado":7,
-    "horas_semana":4
+    "horas_semana":4,
+    "grupo": [6,7,8]
 },
 {
-    "id":15,
+    "id":["CS1","CS2","CS3"],
     "nombre":"calidad de sw",
     "grado":7,
-    "horas_semana":4
+    "horas_semana":4,
+    "grupo": [6,7,8]
 },
 {
-    "id":16,
+    "id":["RA1","RA2","RA3"],
     "nombre":"realidad aumentada",
     "grado":7,
-    "horas_semana":4
+    "horas_semana":4,
+    "grupo": [6,7,8]
 }]

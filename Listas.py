@@ -115,4 +115,5 @@ for x in range(len(obtenerGrupos)):
         obtenerGrupos[x]['grado'],
         obtenerGrupos[x]['grupo']))
 
-print(profesoresList)
+for x in range(len(profesoresList)):
+    print(profesoresList(x))

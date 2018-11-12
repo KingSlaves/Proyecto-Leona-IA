@@ -44,24 +44,45 @@ asignaturas_lista[3].append(asignatura("MatD2","matematicas discretas",1,4,3))
 lista_final = [
     [
         "josue",
+<<<<<<< HEAD
         0,
         0,
         0,
         0,
         0,
             [0,0,0,0,0]
+=======
+        [
+            asignatura("Qu1","quimica",1,4,1),
+            asignatura("Qu1","quimica",1,4,2),
+            asignatura("Qu1","quimica",1,4,3)
+        ],
+        [
+            [0,0,0,0,0],#1
+            [1,1,1,1,1],#2
+            [1,1,1,1,1],#3
+            [1,1,1,1,1],#4
+            [1,1,1,1,1]#4
+        ]
+    ], 
+    [
+        "kevin",
+        [
+            asignatura("Al1","algebra",1,4,1),
+            asignatura("Al2","algebra",1,4,2),
+            asignatura("Al3","algebra",1,4,3)
+        ],
+        [
+            [0,0,0,0,0],#1
+            [1,1,1,1,1],#2
+            [1,1,1,1,1],#3
+            [1,1,1,1,1],#4
+            [1,1,1,1,1]#4
+>>>>>>> 88bc80e8a3516959a129c683876fc2a2017a558e
         ]
     ]
 
 lista_profesor =  [
-   [#profesor 1
-        [0,0,0,0,0],#1
-        [1,1,1,1,1],#2
-        [1,1,1,1,1],#3
-        [1,1,1,1,1],#4
-        [1,1,1,1,1]#4
-      
-    ], 
     [#profesor 2
         [1,1,1,1,1],#1
         [0,0,0,0,0],#2
