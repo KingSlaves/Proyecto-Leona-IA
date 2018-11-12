@@ -6,7 +6,7 @@ from sklearn.preprocessing import MultiLabelBinarizer
 from sklearn.preprocessing import OneHotEncoder
 # define example
 #data = ['Arturo', 'Ezreal', 'Beto', 'Carlitos', 'Donovan']
-leerProfesores = json.loads(open('profesores.json').read())
+leerProfesores = json.loads(open('profesorescls.json').read())
 leerAsignaturas = json.loads(open('asignaturas.json').read())
 
 #Pedimos solo nombres de los profesores y disponibilidad de los profesores

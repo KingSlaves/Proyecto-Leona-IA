@@ -44,15 +44,14 @@ asignaturas_lista[3].append(asignatura("MatD2","matematicas discretas",1,4,3))
 lista_final = [
     [
         "josue",
-        ["Quimica, Algebra"],
-        [
-            [0,0,0,0,0],
-            [0,0,0,0,0],
-            [0,0,0,0,0],
+        0,
+        0,
+        0,
+        0,
+        0,
             [0,0,0,0,0]
         ]
-    ], 
-]
+    ]
 
 lista_profesor =  [
    [#profesor 1

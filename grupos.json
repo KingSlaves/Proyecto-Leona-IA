@@ -16,15 +16,15 @@
 {
     "id":4,
     "grado":4,
-    "grupos":"a"
+    "grupo":"a"
 },
 {
     "id":5,
     "grado":4,
-    "grupos":"b"
+    "grupo":"b"
 },
 {
     "id":6,
     "grado":7,
-    "grupos":"a"
+    "grupo":"a"
 }]

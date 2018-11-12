@@ -125,8 +125,6 @@ gruposList = []
 asignaturasList = []
 horariosGruposList = []  
   
-
-
 for x in range(len(leerProfesores)):
     agregar_Profesor(profesoresList, profesor(
         leerProfesores[x]['id'], 
@@ -146,11 +144,12 @@ for x in range(len(leerGrupos)):
     agregar_Grupo(gruposList, grupo(
         leerGrupos[x]['id'], 
         leerGrupos[x]['grado'],
-        leerGrupos[x]['grupos']))
+        leerGrupos[x]['grupo']))
 
 for x in range(len(leerHorariosGrupos)):
     agregar_HorarioGrupo(horariosGruposList, horarioGrupo(
         leerHorariosGrupos[x]['grado'], 
         leerHorariosGrupos[x]['grupo'],
         leerHorariosGrupos[x]['horario']))
+
 
